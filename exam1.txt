@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hiii hello welcome
-=======
 hiiiii hello 
->>>>>>> origin/master
